@@ -1,0 +1,6 @@
+C:\Users\mic-h\Desktop\tikTestTask\tikTestTask\tikTestTask\bin\Debug\tikTestTask.exe.config
+C:\Users\mic-h\Desktop\tikTestTask\tikTestTask\tikTestTask\bin\Debug\tikTestTask.exe
+C:\Users\mic-h\Desktop\tikTestTask\tikTestTask\tikTestTask\bin\Debug\tikTestTask.pdb
+C:\Users\mic-h\Desktop\tikTestTask\tikTestTask\tikTestTask\obj\Debug\tikTestTask.exe
+C:\Users\mic-h\Desktop\tikTestTask\tikTestTask\tikTestTask\obj\Debug\tikTestTask.pdb
+C:\Users\mic-h\Desktop\tikTestTask\tikTestTask\tikTestTask\obj\Debug\tikTestTask.csprojResolveAssemblyReference.cache
